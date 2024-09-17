@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "username": "j.perez",
+      "firstName": "Juan",
+      "surname1": "Pérez",
+      "surname2": "García",
+      "email": "juan.perez@experienceis.com"
+    },
+    {
+      "username": "m.lopez",
+      "firstName": "María",
+      "surname1": "López",
+      "surname2": "Martínez",
+      "email": "maria.lopez@experienceis.com"
+    },
+    {
+      "username": "p.gonzalez",
+      "firstName": "Pedro",
+      "surname1": "González",
+      "surname2": "Hernández",
+      "email": "pedro.gonzalez@experienceis.com"
+    },
+    {
+      "username": "a.rodriguez",
+      "firstName": "Ana",
+      "surname1": "Rodríguez",
+      "surname2": "Sánchez",
+      "email": "ana.rodriguez@experienceis.com"
+    },
+    {
+      "username": "l.ramirez",
+      "firstName": "Luis",
+      "surname1": "Ramírez",
+      "surname2": "Torres",
+      "email": "luis.ramirez@experienceis.com"
+    },
+    {
+      "username": "l.fernandez",
+      "firstName": "Lucía",
+      "surname1": "Fernández",
+      "surname2": "Ortiz",
+      "email": "lucia.fernandez@experienceis.com"
+    },
+    {
+      "username": "c.gomez",
+      "firstName": "Carlos",
+      "surname1": "Gómez",
+      "surname2": "Díaz",
+      "email": "carlos.gomez@experienceis.com"
+    },
+    {
+      "username": "s.ruiz",
+      "firstName": "Sofía",
+      "surname1": "Ruiz",
+      "surname2": "Vega",
+      "email": "sofia.ruiz@experienceis.com"
+    },
+    {
+      "username": "a.morales",
+      "firstName": "Alberto",
+      "surname1": "Morales",
+      "surname2": "Castillo",
+      "email": "alberto.morales@experienceis.com"
+    },
+    {
+      "username": "p.jimenez",
+      "firstName": "Paula",
+      "surname1": "Jiménez",
+      "surname2": "Santos",
+      "email": "paula.jimenez@experienceis.com"
+    },
+    {
+      "username": "r.garcia",
+      "firstName": "Ricardo",
+      "surname1": "García",
+      "surname2": "Álvarez",
+      "email": "ricardo.garcia@experienceis.com"
+    },
+    {
+      "username": "v.moreno",
+      "firstName": "Valeria",
+      "surname1": "Moreno",
+      "surname2": "Vázquez",
+      "email": "valeria.moreno@experienceis.com"
+    },
+    {
+      "username": "g.romero",
+      "firstName": "Gabriel",
+      "surname1": "Romero",
+      "surname2": "Rivas",
+      "email": "gabriel.romero@experienceis.com"
+    },
+    {
+      "username": "i.garcia",
+      "firstName": "Isabella",
+      "surname1": "García",
+      "surname2": "Ponce",
+      "email": "isabella.garcia@experienceis.com"
+    },
+    {
+      "username": "f.vega",
+      "firstName": "Fernando",
+      "surname1": "Vega",
+      "surname2": "Cordero",
+      "email": "fernando.vega@experienceis.com"
+    },
+    {
+      "username": "l.sanchez",
+      "firstName": "Laura",
+      "surname1": "Sánchez",
+      "surname2": "Martín",
+      "email": "laura.sanchez@experienceis.com"
+    },
+    {
+      "username": "a.ortiz",
+      "firstName": "Alejandro",
+      "surname1": "Ortiz",
+      "surname2": "Morales",
+      "email": "alejandro.ortiz@experienceis.com"
+    },
+    {
+      "username": "c.ruiz",
+      "firstName": "Catalina",
+      "surname1": "Ruiz",
+      "surname2": "Gómez",
+      "email": "catalina.ruiz@experienceis.com"
+    },
+    {
+      "username": "s.mendoza",
+      "firstName": "Santiago",
+      "surname1": "Mendoza",
+      "surname2": "Hurtado",
+      "email": "santiago.mendoza@experienceis.com"
+    },
+    {
+      "username": "v.castro",
+      "firstName": "Valentina",
+      "surname1": "Castro",
+      "surname2": "Paredes",
+      "email": "valentina.castro@experienceis.com"
+    }
+  ]
+}
